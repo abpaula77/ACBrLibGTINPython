@@ -47,8 +47,3 @@ else:
     print(f"Falha ao consultar GTIN. Código de erro: {resultado}")
 
 acbr_lib.GTIN_Finalizar()
-
-
-
-
-
